@@ -46,7 +46,7 @@ Maps are also useful to group other maps, allowing you have multiple views on a 
 
 As an engineer, side projects are an excellent idea to develop your skills and passion. By including projects as first class, we can both track projects but also extract useable information out of them. Projects should be thought as a subclass of MOCs. They link to relevant concepts, providing some contextual information with the given projects. I have also opted to included Kanban directly in the project to provide a "single source of truth" type view of the project.
 
-I have opted for three "views" on projects. Active, completed, and backlogged. This is simply so that you can context switch to the appropriate area quickly.
+I have opted for three "views" on projects. Active, completed, and backlogged. These are managed by a top level Dataview Query. This way we can keep track of when projects are becoming stale as part of a daily note.
 
 ### Practice Problems
 
