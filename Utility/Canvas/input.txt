@@ -1,0 +1,2839 @@
+
+Skip To Content
+Dashboard
+
+    Ashrafur Raman Siddiqui
+    Account
+
+Dashboard
+Courses
+Calendar
+Inbox
+History
+Kaltura
+My Media
+
+    One unread release note.1
+    Help
+
+
+      
+
+
+    CS-6290-O01Modules
+
+Summer 2025
+
+    Home
+    Syllabus
+    Announcements
+    Modules
+    Assignments
+    Zoom
+    Grades
+    Ed Discussion
+    Files
+    Quizzes
+    Pages
+    GT Student Resources
+    Collaborations
+    Honorlock
+
+Course Modules
+Welcome to CS6290: High-Performance Computer Architectures!
+Welcome to CS6290: High-Performance Computer Architectures!
+
+    Complete All Items
+
+Module In Progress
+
+    Page
+    Getting Started
+    View Must view in order to complete this module item
+    Page
+    Are you ready for this course?
+    Viewed Module item has been viewed and is complete
+    Page
+    Course Notes
+    Viewed Module item has been viewed and is complete
+    Page
+    List of Equations
+    Viewed Module item has been viewed and is complete
+
+Introduction
+Introduction
+
+    Complete All Items
+
+Module In Progress
+
+    Page
+    Introduction
+    Mark done Must mark this module item done in order to complete
+    Page
+    1. Lesson 1 Introduction
+    Viewed Module item has been viewed and is complete
+    Page
+    2. What is Computer Architecture?
+    View Must view in order to complete this module item
+    Page
+    3. Why Do We Need Computer Architectures
+    View Must view in order to complete this module item
+    Page
+    4. Computer Architecture Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Introduction: Computer Architecture Quiz
+    View Must view in order to complete this module item
+    Page
+    4. Computer Architecture Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    5. Computer Architecture & Tech Trends
+    View Must view in order to complete this module item
+    Page
+    6. Moore's Law
+    View Must view in order to complete this module item
+    Page
+    7. Speed Doubling Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Introduction: Speed Doubling Quiz
+    View Must view in order to complete this module item
+    Page
+    7. Speed Doubling Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    8. Memory Wall
+    View Must view in order to complete this module item
+    Page
+    9. Processor Speed - Cost - Power
+    View Must view in order to complete this module item
+    Page
+    10. Speed vs Power vs Weight vs Cost Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Introduction: Speed vs Power vs Weight vs Cost Quiz
+    View Must view in order to complete this module item
+    Page
+    10. Speed vs Power vs Weight vs Cost Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    11. Power Consumption
+    View Must view in order to complete this module item
+    Page
+    12. Active Power
+    View Must view in order to complete this module item
+    Page
+    13. Static Power
+    View Must view in order to complete this module item
+    Page
+    14. Active Power Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Introduction: Active Power Quiz
+    View Must view in order to complete this module item
+    Page
+    14. Active Power Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    15. Fabrication Cost 1
+    View Must view in order to complete this module item
+    Page
+    16. Fabrication Yield
+    View Must view in order to complete this module item
+    Page
+    17. Fabrication Cost 2
+    View Must view in order to complete this module item
+    Page
+    18. Manufacturing Cost Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Introduction: Manufacturing Cost Quiz
+    View Must view in order to complete this module item
+    Page
+    18. Manufacturing Cost Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    19. Lesson 1 Outro
+    View Must view in order to complete this module item
+
+Metrics and Evaluation
+Metrics and Evaluation
+
+    Complete All Items
+
+Module In Progress
+
+    Page
+    Metrics and Evaluation
+    Mark done Must mark this module item done in order to complete
+    Page
+    1. Measurement Evaluation Intro
+    Viewed Module item has been viewed and is complete
+    Page
+    2. Performance
+    View Must view in order to complete this module item
+    Page
+    3. Latency and Throughput Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Metrics and Evaluation: Latency and Throughput Quiz
+    View Must view in order to complete this module item
+    Page
+    3. Latency and Throughput Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    4. Comparing Performance
+    View Must view in order to complete this module item
+    Page
+    5. Performance Comparison Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Metrics and Evaluation: Performance Comparison Quiz
+    View Must view in order to complete this module item
+    Page
+    5. Performance Comparison Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    6. Performance Comparison Quiz 2
+    View Must view in order to complete this module item
+    Quiz
+    Metrics and Evaluation: Performance Comparison Quiz 2
+    View Must view in order to complete this module item
+    Page
+    6. Performance Comparison Quiz 2 (Answer)
+    View Must view in order to complete this module item
+    Page
+    7. Speedup
+    View Must view in order to complete this module item
+    Page
+    8. Measuring Performance
+    View Must view in order to complete this module item
+    Page
+    9. Benchmarks
+    View Must view in order to complete this module item
+    Page
+    10. Types of Benchmarks
+    View Must view in order to complete this module item
+    Page
+    11. Performance Reporting Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Metrics and Evaluation: Performance Reporting Quiz
+    View Must view in order to complete this module item
+    Page
+    11. Performance Reporting Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    12. Benchmark Standards
+    View Must view in order to complete this module item
+    Page
+    13. Summarizing Performance
+    View Must view in order to complete this module item
+    Page
+    14. Speedup Averaging Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Metrics and Evaluation: Speedup Averaging Quiz
+    View Must view in order to complete this module item
+    Page
+    14. Speedup Averaging Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    15. Iron Law of Performance
+    View Must view in order to complete this module item
+    Page
+    16. Iron Law Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Metrics and Evaluation: Iron Law Quiz
+    View Must view in order to complete this module item
+    Page
+    16. Iron Law Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    17. Iron Law for Unequal Instruction Times
+    View Must view in order to complete this module item
+    Page
+    18. Iron Law Quiz 2
+    View Must view in order to complete this module item
+    Quiz
+    Metrics and Evaluation: Iron Law Quiz 2
+    View Must view in order to complete this module item
+    Page
+    18. Iron Law Quiz 2 (Answer)
+    View Must view in order to complete this module item
+    Page
+    19. Amdahl's Law
+    View Must view in order to complete this module item
+    Page
+    20. Amdahl's Law Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Metrics and Evaluation: Amdahl's Law Quiz
+    View Must view in order to complete this module item
+    Page
+    20. Amdahl's Law Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    21. Amdal's Law Implications
+    View Must view in order to complete this module item
+    Page
+    22. Amdahl's Law Quiz 2
+    View Must view in order to complete this module item
+    Quiz
+    Metrics and Evaluation: Amdahl's Law Quiz 2
+    View Must view in order to complete this module item
+    Page
+    22. Amdahl's Law Quiz 2 (Answer)
+    View Must view in order to complete this module item
+    Page
+    23. Lhadma's Law
+    View Must view in order to complete this module item
+    Page
+    24. Diminishing Returns
+    View Must view in order to complete this module item
+    Page
+    25. Measurement Evaluation Outro
+    View Must view in order to complete this module item
+
+Pipelining
+Pipelining
+
+    Complete All Items
+
+Module In Progress
+
+    Page
+    Pipelining
+    Mark done Must mark this module item done in order to complete
+    Page
+    1. Pipelining Intro
+    Viewed Module item has been viewed and is complete
+    Page
+    2. Pipelining
+    View Must view in order to complete this module item
+    Page
+    3. Pipelining in a Processor
+    View Must view in order to complete this module item
+    Page
+    4. Laundry Pipelining Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Pipelining: Laundry Pipelining Quiz
+    View Must view in order to complete this module item
+    Page
+    4. Laundry Pipelining Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    5. Instruction Pipelining Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Pipelining: Instruction Pipelining Quiz
+    View Must view in order to complete this module item
+    Page
+    5. Instruction Pipelining Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    6. Pipeline CPI
+    View Must view in order to complete this module item
+    Page
+    7. Processor Pipeline Stalls
+    View Must view in order to complete this module item
+    Page
+    8. Processor Pipeline Stalls and Flushes
+    View Must view in order to complete this module item
+    Page
+    9. Control Dependencies
+    View Must view in order to complete this module item
+    Page
+    10. Control Dependence Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Pipelining: Control Dependence Quiz
+    View Must view in order to complete this module item
+    Page
+    10. Control Dependence Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    11. Data Dependencies
+    View Must view in order to complete this module item
+    Page
+    12. Data Dependencies Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Pipelining: Data Dependencies Quiz
+    View Must view in order to complete this module item
+    Page
+    12. Data Dependencies Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    13. Dependencies and Hazards
+    View Must view in order to complete this module item
+    Page
+    14. Dependencies and Hazards Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Pipelining: Dependencies and Hazards Quiz
+    View Must view in order to complete this module item
+    Page
+    14. Dependencies and Hazards Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    15. Handling of Hazards
+    View Must view in order to complete this module item
+    Page
+    16. Flushes - Stalls - and Forwarding Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Pipelining: Flushes -Stalls -and Forwarding Quiz
+    View Must view in order to complete this module item
+    Page
+    16. Flushes - Stalls - and Forwarding Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    17. How Many Stages
+    View Must view in order to complete this module item
+    Page
+    18. Pipelining Outro
+    View Must view in order to complete this module item
+
+Branches
+Branches
+
+    Complete All Items
+
+Module In Progress
+
+    Page
+    Branches
+    Mark done Must mark this module item done in order to complete
+    Page
+    1. Branches Intro
+    Viewed Module item has been viewed and is complete
+    Page
+    2. Branch in a Pipeline
+    View Must view in order to complete this module item
+    Page
+    3. Branch Prediction Requirements
+    View Must view in order to complete this module item
+    Page
+    4. Branch Prediction Accuracy
+    View Must view in order to complete this module item
+    Page
+    5. Branch Prediction Benefit Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Branches: Branch Prediction Benefit Quiz
+    View Must view in order to complete this module item
+    Page
+    5. Branch Prediction Benefit Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    6. Performance With Not Taken Prediction
+    View Must view in order to complete this module item
+    Page
+    7. Multiple Predictions Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Branches: Multiple Predictions Quiz
+    View Must view in order to complete this module item
+    Page
+    7. Multiple Predictions Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    8. Predict Not Taken
+    View Must view in order to complete this module item
+    Page
+    9. Why We Need Better Prediction
+    View Must view in order to complete this module item
+    Page
+    10. Predictor Impact Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Branches: Predictor Impact Quiz
+    View Must view in order to complete this module item
+    Page
+    10. Predictor Impact Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    11. Why We Need Better Predicition Part 2
+    View Must view in order to complete this module item
+    Page
+    12. Better Prediction How
+    View Must view in order to complete this module item
+    Page
+    13. BTB Branch Target Buffer
+    View Must view in order to complete this module item
+    Page
+    14. Realistic BTB
+    View Must view in order to complete this module item
+    Page
+    15. BTB Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Branches: BTB Quiz
+    View Must view in order to complete this module item
+    Page
+    15. BTB Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    16. Direction Predictor
+    View Must view in order to complete this module item
+    Page
+    17. BTB and BHT Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Branches: BTB and BHT Quiz
+    View Must view in order to complete this module item
+    Page
+    17. BTB and BHT Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    18. BTB and BHT Quiz 2
+    View Must view in order to complete this module item
+    Quiz
+    Branches: BTB and BHT Quiz 2
+    View Must view in order to complete this module item
+    Page
+    18. BTB and BHT Quiz 2 (Answer)
+    View Must view in order to complete this module item
+    Page
+    19. BTB and BHT Quiz 3
+    View Must view in order to complete this module item
+    Quiz
+    Branches: BTB and BHT Quiz 3
+    View Must view in order to complete this module item
+    Page
+    19. BTB and BHT Quiz 3 (Answer)
+    View Must view in order to complete this module item
+    Page
+    20. BTB and BHT Quiz 4
+    View Must view in order to complete this module item
+    Quiz
+    Branches: BTB and BHT Quiz 4
+    View Must view in order to complete this module item
+    Page
+    20. BTB and BHT Quiz 4 (Answer)
+    View Must view in order to complete this module item
+    Page
+    21. BTB and BHT Quiz 5
+    View Must view in order to complete this module item
+    Quiz
+    Branches: BTB and BHT Quiz 5
+    View Must view in order to complete this module item
+    Page
+    21. BTB and BHT Quiz 5 (Answer)
+    View Must view in order to complete this module item
+    Page
+    22. Problems With 1 Bit Predictions
+    View Must view in order to complete this module item
+    Page
+    23. 2 Bit Predictor
+    View Must view in order to complete this module item
+    Page
+    24. 2 Bit Predictor Initialization
+    View Must view in order to complete this module item
+    Page
+    25. 2BP Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Branches: 2BP Quiz
+    View Must view in order to complete this module item
+    Page
+    25. 2BP Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    26. 1BP - 2BP
+    View Must view in order to complete this module item
+    Page
+    27. History Based Predictors
+    View Must view in order to complete this module item
+    Page
+    28. 1 Bit History With 2 Bit Count
+    View Must view in order to complete this module item
+    Page
+    29. 1 Bit History Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Branches: 1 Bit History Quiz
+    View Must view in order to complete this module item
+    Page
+    29. 1 Bit History Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    30. 2 Bit History Predictor
+    View Must view in order to complete this module item
+    Page
+    31. 2 Bit History Predictor 2
+    View Must view in order to complete this module item
+    Page
+    32. N Bit History Predictor Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Branches: N Bit History Predictor Quiz
+    View Must view in order to complete this module item
+    Page
+    32. N Bit History Predictor Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    33. History Predictor Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Branches: History Predictor Quiz
+    View Must view in order to complete this module item
+    Page
+    33. History Predictor Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    34. History With Shared Counters part1
+    View Must view in order to complete this module item
+    Page
+    35. History With Shared Counters part 2
+    View Must view in order to complete this module item
+    Page
+    36. History With Shared Counters part 3
+    View Must view in order to complete this module item
+    Page
+    37. PShare
+    View Must view in order to complete this module item
+    Page
+    38. PShare vs GShare Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Branches: PShare vs GShare Quiz
+    View Must view in order to complete this module item
+    Page
+    38. PShare vs GShare Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    39. GShare or PShare
+    View Must view in order to complete this module item
+    Page
+    40. Tournament Predictor
+    View Must view in order to complete this module item
+    Page
+    41. Hierarchical Predictors
+    View Must view in order to complete this module item
+    Page
+    42. Hierarchical Predictor Example
+    View Must view in order to complete this module item
+    Page
+    43. Multi Predictor Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Branches: Multi Predictor Quiz
+    View Must view in order to complete this module item
+    Page
+    43. Multi Predictor Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    44. Return Address Stack (RAS)
+    View Must view in order to complete this module item
+    Page
+    45. RAS
+    View Must view in order to complete this module item
+    Page
+    46. RAS Full Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Branches: RAS Full Quiz
+    View Must view in order to complete this module item
+    Page
+    46. RAS Full Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    47. But How Do We Know It's A RET
+    View Must view in order to complete this module item
+    Page
+    48. Branches Outro
+    View Must view in order to complete this module item
+
+Predication
+Predication
+
+    Complete All Items
+
+    Page
+    Predication
+    Mark done Must mark this module item done in order to complete
+    Page
+    1. Predication Intro
+    View Must view in order to complete this module item
+    Page
+    2. Predication
+    View Must view in order to complete this module item
+    Page
+    3. If Conversion
+    View Must view in order to complete this module item
+    Page
+    4. Conditional Move
+    View Must view in order to complete this module item
+    Page
+    5. MovZ MovN
+    View Must view in order to complete this module item
+    Quiz
+    Predication: MovZ MovN
+    View Must view in order to complete this module item
+    Page
+    5. MovZ MovN (Answer)
+    View Must view in order to complete this module item
+    Page
+    6. MovZ MovN Performance
+    View Must view in order to complete this module item
+    Page
+    7. MovZ MovN Performance Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Predication: MovZ MovN Performance Quiz
+    View Must view in order to complete this module item
+    Page
+    7. MovZ MovN Performance Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    8. MOVc Summary
+    View Must view in order to complete this module item
+    Page
+    9. Full Predication HW Support
+    View Must view in order to complete this module item
+    Page
+    10. Full Predication Example
+    View Must view in order to complete this module item
+    Page
+    11. Full Predication Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Predication: Full Predication Quiz
+    View Must view in order to complete this module item
+    Page
+    11. Full Predication Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    12. Predication Outro
+    View Must view in order to complete this module item
+
+ILP
+ILP
+
+    Complete All Items
+
+    Page
+    ILP
+    Mark done Must mark this module item done in order to complete
+    Page
+    1. ILP Intro
+    View Must view in order to complete this module item
+    Page
+    2. ILP All in the Same Cycle
+    View Must view in order to complete this module item
+    Page
+    3. The Execute Stage
+    View Must view in order to complete this module item
+    Page
+    4. RAW Dependencies
+    View Must view in order to complete this module item
+    Page
+    5. WAW Dependencies
+    View Must view in order to complete this module item
+    Page
+    6. Dependency Quiz
+    View Must view in order to complete this module item
+    Quiz
+    ILP: Dependency Quiz
+    View Must view in order to complete this module item
+    Page
+    6. Dependency Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    7. Removing False Dependencies
+    View Must view in order to complete this module item
+    Page
+    8. Duplicating Register Values
+    View Must view in order to complete this module item
+    Page
+    9. Register Renaming
+    View Must view in order to complete this module item
+    Page
+    10. RAT Example
+    View Must view in order to complete this module item
+    Page
+    11. Register Renaming Quiz
+    View Must view in order to complete this module item
+    Quiz
+    ILP: Register Renaming Quiz
+    View Must view in order to complete this module item
+    Page
+    11. Register Renaming Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    12. False Dependencies After Renaming
+    View Must view in order to complete this module item
+    Page
+    13. Instruction Level Parallelism (ILP)
+    View Must view in order to complete this module item
+    Page
+    14. ILP Example
+    View Must view in order to complete this module item
+    Page
+    15. ILP Quiz
+    View Must view in order to complete this module item
+    Quiz
+    ILP: ILP Quiz
+    View Must view in order to complete this module item
+    Page
+    15. ILP Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    16. ILP with Control Dependencies
+    View Must view in order to complete this module item
+    Page
+    17. ILP vs IPC
+    View Must view in order to complete this module item
+    Page
+    18. IPC & ILP Quiz
+    View Must view in order to complete this module item
+    Quiz
+    ILP: IPC & ILP Quiz
+    View Must view in order to complete this module item
+    Page
+    18. IPC & ILP Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    19. ILP & IPC Discussion
+    View Must view in order to complete this module item
+    Page
+    20. ILP Outro
+    View Must view in order to complete this module item
+
+Instruction Scheduling
+Instruction Scheduling
+
+    Complete All Items
+
+    Page
+    Instruction Scheduling
+    Mark done Must mark this module item done in order to complete
+    Page
+    1. Tomasulo Intro
+    View Must view in order to complete this module item
+    Page
+    2. Improving IPC
+    View Must view in order to complete this module item
+    Page
+    3. Tomasulo's Algorithm
+    View Must view in order to complete this module item
+    Page
+    4. The Picture
+    View Must view in order to complete this module item
+    Page
+    5. Issue
+    View Must view in order to complete this module item
+    Page
+    6. Issue Example
+    View Must view in order to complete this module item
+    Page
+    7. Issue Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Instruction Scheduling: Issue Quiz
+    View Must view in order to complete this module item
+    Page
+    7. Issue Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    8. Dispatch
+    View Must view in order to complete this module item
+    Page
+    9. More Than 1 Instruction Ready
+    View Must view in order to complete this module item
+    Page
+    10. Dispatch Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Instruction Scheduling: Dispatch Quiz
+    View Must view in order to complete this module item
+    Page
+    10. Dispatch Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    11. Write Result (Broadcast)
+    View Must view in order to complete this module item
+    Page
+    12. More Than 1 Broadcast
+    View Must view in order to complete this module item
+    Page
+    13. Broadcast Stale Result
+    View Must view in order to complete this module item
+    Page
+    14. Review Part 1
+    View Must view in order to complete this module item
+    Page
+    15. Review Part 2
+    View Must view in order to complete this module item
+    Page
+    16. One Cycle Quiz Part 1
+    View Must view in order to complete this module item
+    Quiz
+    Instruction Scheduling: One Cycle Quiz Part 1
+    View Must view in order to complete this module item
+    Page
+    16. One Cycle Quiz Part 1 (Answer)
+    View Must view in order to complete this module item
+    Page
+    17. One Cycle Quiz Part 2
+    View Must view in order to complete this module item
+    Quiz
+    Instruction Scheduling: One Cycle Quiz Part 2
+    View Must view in order to complete this module item
+    Page
+    17. One Cycle Quiz Part 2 (Answer)
+    View Must view in order to complete this module item
+    Page
+    18. One Cycle Quiz Part 3
+    View Must view in order to complete this module item
+    Quiz
+    Instruction Scheduling: One Cycle Quiz Part 3
+    View Must view in order to complete this module item
+    Page
+    18. One Cycle Quiz Part 3 (Answer)
+    View Must view in order to complete this module item
+    Page
+    19. Tomasulo's Algorithm Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Instruction Scheduling: Tomasulo's Algorithm Quiz
+    View Must view in order to complete this module item
+    Page
+    19. Tomasulo's Algorithm Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    20. Load and Store Instructions
+    View Must view in order to complete this module item
+    Page
+    21. Long Example Introduction
+    View Must view in order to complete this module item
+    Page
+    22. Long Example Cycles 1-2
+    View Must view in order to complete this module item
+    Page
+    23. Long Example Cycles 3-4
+    View Must view in order to complete this module item
+    Page
+    24. Long Example Cycles 5-6
+    View Must view in order to complete this module item
+    Page
+    25. Long Example Cycles 7-9
+    View Must view in order to complete this module item
+    Page
+    26. Long Example Cycles 10-end
+    View Must view in order to complete this module item
+    Page
+    27. Timing Example
+    View Must view in order to complete this module item
+    Page
+    28. Tomasulo Timing Quiz Part 1
+    View Must view in order to complete this module item
+    Quiz
+    Instruction Scheduling: Tomasulo Timing Quiz Part 1
+    View Must view in order to complete this module item
+    Page
+    28. Tomasulo Timing Quiz Part 1 (Answer)
+    View Must view in order to complete this module item
+    Page
+    29. Tomasulo Timing Quiz Part 2
+    View Must view in order to complete this module item
+    Quiz
+    Instruction Scheduling: Tomasulo Timing Quiz Part 2
+    View Must view in order to complete this module item
+    Page
+    29. Tomasulo Timing Quiz Part 2 (Answer)
+    View Must view in order to complete this module item
+    Page
+    30. Tomasulo Outro
+    View Must view in order to complete this module item
+
+ReOrder Buffer
+ReOrder Buffer
+
+    Complete All Items
+
+    Page
+    ReOrder Buffer
+    Mark done Must mark this module item done in order to complete
+    Page
+    1. ROB Intro
+    View Must view in order to complete this module item
+    Page
+    2. Exceptions in Out Of Order Execution
+    View Must view in order to complete this module item
+    Page
+    3. Branch Misprediction
+    View Must view in order to complete this module item
+    Page
+    4. Correct Out of Order Execution
+    View Must view in order to complete this module item
+    Page
+    5. ROB Part 1
+    View Must view in order to complete this module item
+    Page
+    6. ROB Part 2
+    View Must view in order to complete this module item
+    Page
+    7. Free Reservation Stations Quiz
+    View Must view in order to complete this module item
+    Quiz
+    ReOrder Buffer: Free Reservation Stations Quiz
+    View Must view in order to complete this module item
+    Page
+    7. Free Reservation Stations Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    8. ROB Part 3
+    View Must view in order to complete this module item
+    Page
+    9. Hardware Organization with ROB
+    View Must view in order to complete this module item
+    Page
+    10. ROB Quiz
+    View Must view in order to complete this module item
+    Quiz
+    ReOrder Buffer: ROB Quiz
+    View Must view in order to complete this module item
+    Page
+    10. ROB Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    11. Branch Misprediction Recovery Part 1
+    View Must view in order to complete this module item
+    Page
+    12. Branch Misprediction Recovery Part 2
+    View Must view in order to complete this module item
+    Page
+    13. ROB and Exceptions
+    View Must view in order to complete this module item
+    Page
+    14. Outside View of Executed
+    View Must view in order to complete this module item
+    Page
+    15. Exceptions with ROB Quiz
+    View Must view in order to complete this module item
+    Quiz
+    ReOrder Buffer: Exceptions with ROB Quiz
+    View Must view in order to complete this module item
+    Page
+    15. Exceptions with ROB Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    16. RAT Updates on Commit
+    View Must view in order to complete this module item
+    Page
+    17. ROB Example Cycles 1 2
+    View Must view in order to complete this module item
+    Page
+    18. ROB Example Cycles 3 4
+    View Must view in order to complete this module item
+    Page
+    19. ROB Example Cycles 5 & 6
+    View Must view in order to complete this module item
+    Page
+    20. ROB Example Cycles 13-24
+    View Must view in order to complete this module item
+    Page
+    21. ROB Example Cycles 25-43
+    View Must view in order to complete this module item
+    Page
+    22. ROB Example Cycles 44-48
+    View Must view in order to complete this module item
+    Page
+    23. ROB Quiz 1
+    View Must view in order to complete this module item
+    Quiz
+    ReOrder Buffer: ROB Quiz 1
+    View Must view in order to complete this module item
+    Page
+    23. ROB Quiz 1 (Answer)
+    View Must view in order to complete this module item
+    Page
+    24. ROB Quiz 2
+    View Must view in order to complete this module item
+    Quiz
+    ReOrder Buffer: ROB Quiz 2
+    View Must view in order to complete this module item
+    Page
+    24. ROB Quiz 2 (Answer)
+    View Must view in order to complete this module item
+    Page
+    25. ROB Quiz 3
+    View Must view in order to complete this module item
+    Quiz
+    ReOrder Buffer: ROB Quiz 3
+    View Must view in order to complete this module item
+    Page
+    25. ROB Quiz 3 (Answer)
+    View Must view in order to complete this module item
+    Page
+    26. ROB Quiz 4
+    View Must view in order to complete this module item
+    Quiz
+    ReOrder Buffer: ROB Quiz 4
+    View Must view in order to complete this module item
+    Page
+    26. ROB Quiz 4 (Answer)
+    View Must view in order to complete this module item
+    Page
+    27. ROB Quiz 5
+    View Must view in order to complete this module item
+    Quiz
+    ReOrder Buffer: ROB Quiz 5
+    View Must view in order to complete this module item
+    Page
+    27. ROB Quiz 5 (Answer)
+    View Must view in order to complete this module item
+    Page
+    28. ROB Quiz 6
+    View Must view in order to complete this module item
+    Quiz
+    ReOrder Buffer: ROB Quiz 6
+    View Must view in order to complete this module item
+    Page
+    28. ROB Quiz 6 (Answer)
+    View Must view in order to complete this module item
+    Page
+    29. ROB Quiz 7
+    View Must view in order to complete this module item
+    Quiz
+    ReOrder Buffer: ROB Quiz 7
+    View Must view in order to complete this module item
+    Page
+    29. ROB Quiz 7 (Answer)
+    View Must view in order to complete this module item
+    Page
+    30. ROB Quiz 8
+    View Must view in order to complete this module item
+    Quiz
+    ReOrder Buffer: ROB Quiz 8
+    View Must view in order to complete this module item
+    Page
+    30. ROB Quiz 8 (Answer)
+    View Must view in order to complete this module item
+    Page
+    31. ROB Timing Example
+    View Must view in order to complete this module item
+    Page
+    32. ROB Timing Quiz 1
+    View Must view in order to complete this module item
+    Quiz
+    ReOrder Buffer: ROB Timing Quiz 1
+    View Must view in order to complete this module item
+    Page
+    32. ROB Timing Quiz 1 (Answer)
+    View Must view in order to complete this module item
+    Page
+    33. ROB Timing Quiz 2
+    View Must view in order to complete this module item
+    Quiz
+    ReOrder Buffer: ROB Timing Quiz 2
+    View Must view in order to complete this module item
+    Page
+    33. ROB Timing Quiz 2 (Answer)
+    View Must view in order to complete this module item
+    Page
+    34. ROB Timing Quiz 3
+    View Must view in order to complete this module item
+    Quiz
+    ReOrder Buffer: ROB Timing Quiz 3
+    View Must view in order to complete this module item
+    Page
+    34. ROB Timing Quiz 3 (Answer)
+    View Must view in order to complete this module item
+    Page
+    35. Unified Reservation Stations
+    View Must view in order to complete this module item
+    Page
+    36. Superscalar
+    View Must view in order to complete this module item
+    Page
+    37. Terminology Confusion
+    View Must view in order to complete this module item
+    Page
+    38. Out of Order
+    View Must view in order to complete this module item
+    Page
+    39. In Order vs Out of Order Quiz
+    View Must view in order to complete this module item
+    Quiz
+    ReOrder Buffer: In Order vs Out of Order Quiz
+    View Must view in order to complete this module item
+    Page
+    39. In Order vs Out of Order Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    40. ROB Outro
+    View Must view in order to complete this module item
+
+Memory Ordering
+Memory Ordering
+
+    Complete All Items
+
+Module In Progress
+
+    Page
+    Memory Ordering
+    Mark done Must mark this module item done in order to complete
+    Page
+    1. Memory Ordering Intro
+    Viewed Module item has been viewed and is complete
+    Page
+    2. Memory Access Ordering
+    View Must view in order to complete this module item
+    Page
+    3. When does Memory Write Happen
+    View Must view in order to complete this module item
+    Page
+    4. Load Store Queue Part 1
+    View Must view in order to complete this module item
+    Page
+    5. Load Store Queue Part 2
+    View Must view in order to complete this module item
+    Page
+    6. Out of Order Load Store Execution
+    View Must view in order to complete this module item
+    Page
+    7. In Order Load Store Execution
+    View Must view in order to complete this module item
+    Page
+    8. Memory Ordering Quiz 0
+    View Must view in order to complete this module item
+    Quiz
+    Memory Ordering: Memory Ordering Quiz 0
+    View Must view in order to complete this module item
+    Page
+    8. Memory Ordering Quiz 0 (Answer)
+    View Must view in order to complete this module item
+    Page
+    9. Store to Load Forwarding
+    View Must view in order to complete this module item
+    Page
+    10. LSQ Example
+    View Must view in order to complete this module item
+    Page
+    11. LSQ - ROB - and RS
+    View Must view in order to complete this module item
+    Page
+    12. Memory Ordering Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Memory Ordering: Memory Ordering Quiz
+    View Must view in order to complete this module item
+    Page
+    12. Memory Ordering Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    13. Memory Ordering Quiz 2
+    View Must view in order to complete this module item
+    Quiz
+    Memory Ordering: Memory Ordering Quiz 2
+    View Must view in order to complete this module item
+    Page
+    13. Memory Ordering Quiz 2 (Answer)
+    View Must view in order to complete this module item
+    Page
+    14. Memory Ordering Outro
+    View Must view in order to complete this module item
+
+Compiler ILP
+Compiler ILP
+
+    Complete All Items
+
+    Page
+    Compiler ILP
+    Mark done Must mark this module item done in order to complete
+    Page
+    1. Compiler ILP Intro
+    View Must view in order to complete this module item
+    Page
+    2. Can Compilers Help Improve IPC
+    View Must view in order to complete this module item
+    Page
+    3. Tree Height Reduction
+    View Must view in order to complete this module item
+    Page
+    4. Tree Height Reduction Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Compiler ILP: Tree Height Reduction Quiz
+    View Must view in order to complete this module item
+    Page
+    4. Tree Height Reduction Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    5. Make Independent Instructions Easier to Find
+    View Must view in order to complete this module item
+    Page
+    6. Instruction Scheduling
+    View Must view in order to complete this module item
+    Page
+    7. Instruction Scheduling Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Compiler ILP: Instruction Scheduling Quiz
+    View Must view in order to complete this module item
+    Page
+    7. Instruction Scheduling Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    8. Scheduling and If Conversion
+    View Must view in order to complete this module item
+    Page
+    9. If Convert a Loop
+    View Must view in order to complete this module item
+    Page
+    10. Loop Unrolling
+    View Must view in order to complete this module item
+    Page
+    11. Loop Unrolling Benefits ILP
+    View Must view in order to complete this module item
+    Page
+    12. Loop Unrolling Benefits CPI Part 1
+    View Must view in order to complete this module item
+    Page
+    13. Loop Unrolling Benefits CPI Part 2
+    View Must view in order to complete this module item
+    Page
+    14. Loop Unrolling Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Compiler ILP: Loop Unrolling Quiz
+    Page
+    14. Loop Unrolling Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    15. Unrolling Downside
+    View Must view in order to complete this module item
+    Page
+    16. Function Call Inlining
+    View Must view in order to complete this module item
+    Page
+    17. Function Call Inlining Downside
+    View Must view in order to complete this module item
+    Page
+    18. Fuction Inlining Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Compiler ILP: Fuction Inlining Quiz
+    View Must view in order to complete this module item
+    Page
+    18. Fuction Inlining Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    19. Other IPC Enhancing Compiler Stuff
+    View Must view in order to complete this module item
+    Page
+    20. Compiler ILP Outro
+    View Must view in order to complete this module item
+
+VLIW
+VLIW
+
+    Complete All Items
+
+Module In Progress
+
+    Page
+    VLIW
+    Mark done Must mark this module item done in order to complete
+    Page
+    1. VLIW Intro
+    Viewed Module item has been viewed and is complete
+    Page
+    2. Superscalar vs VLIW
+    View Must view in order to complete this module item
+    Page
+    3. Superscalar vs VLIW Quiz
+    View Must view in order to complete this module item
+    Quiz
+    VLIW: Superscalar vs VLIW Quiz
+    View Must view in order to complete this module item
+    Page
+    3. Superscalar vs VLIW Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    4. The Good and the Bad
+    View Must view in order to complete this module item
+    Page
+    5. VLIW Backward Compatibility Quiz
+    View Must view in order to complete this module item
+    Quiz
+    VLIW: VLIW Backward Compatibility Quiz
+    View Must view in order to complete this module item
+    Page
+    5. VLIW Backward Compatibility Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    6. VLIW Instructions
+    View Must view in order to complete this module item
+    Page
+    7. VLIW Examples
+    View Must view in order to complete this module item
+    Page
+    8. VLIW Target Market Quiz
+    View Must view in order to complete this module item
+    Quiz
+    VLIW: VLIW Target Market Quiz
+    View Must view in order to complete this module item
+    Page
+    8. VLIW Target Market Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    9. VLIW Outro
+    View Must view in order to complete this module item
+
+Cache Review
+Cache Review
+
+    Complete All Items
+
+    Page
+    Cache Review
+    Mark done Must mark this module item done in order to complete
+    Page
+    1. Cache Review Intro
+    View Must view in order to complete this module item
+    Page
+    2. Locality Principle
+    View Must view in order to complete this module item
+    Page
+    3. Locality Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Cache Review: Locality Quiz
+    View Must view in order to complete this module item
+    Page
+    3. Locality Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    4. Memory References
+    View Must view in order to complete this module item
+    Page
+    5. Temporal Locality Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Cache Review: Temporal Locality Quiz
+    View Must view in order to complete this module item
+    Page
+    5. Temporal Locality Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    6. Spatial Locality Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Cache Review: Spatial Locality Quiz
+    View Must view in order to complete this module item
+    Page
+    6. Spatial Locality Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    7. Locality and Data Accesses
+    View Must view in order to complete this module item
+    Page
+    8. Cache Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Cache Review: Cache Quiz
+    View Must view in order to complete this module item
+    Page
+    8. Cache Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    9. Cache Lookups
+    View Must view in order to complete this module item
+    Page
+    10. Cache Performance
+    View Must view in order to complete this module item
+    Page
+    11. Hit Time Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Cache Review: Hit Time Quiz
+    View Must view in order to complete this module item
+    Page
+    11. Hit Time Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    12. Miss Rate Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Cache Review: Miss Rate Quiz
+    View Must view in order to complete this module item
+    Page
+    12. Miss Rate Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    13. Cache Size in Real Processors
+    View Must view in order to complete this module item
+    Page
+    14. Cache Organization
+    View Must view in order to complete this module item
+    Page
+    15. Block Size Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Cache Review: Block Size Quiz
+    View Must view in order to complete this module item
+    Page
+    15. Block Size Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    16. Cache Block Start Address
+    View Must view in order to complete this module item
+    Page
+    17. Blocks in Cache and Memory
+    View Must view in order to complete this module item
+    Page
+    18. Cache Line Sizes Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Cache Review: Cache Line Sizes Quiz
+    View Must view in order to complete this module item
+    Page
+    18. Cache Line Sizes Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    19. Block Offset and Block Number
+    View Must view in order to complete this module item
+    Page
+    20. Block Number Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Cache Review: Block Number Quiz
+    View Must view in order to complete this module item
+    Page
+    20. Block Number Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    21. Cache Tags
+    View Must view in order to complete this module item
+    Page
+    22. Cache Tag Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Cache Review: Cache Tag Quiz
+    View Must view in order to complete this module item
+    Page
+    22. Cache Tag Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    23. Valid Bit
+    View Must view in order to complete this module item
+    Page
+    24. Types of Caches
+    View Must view in order to complete this module item
+    Page
+    25. Direct Mapped Cache
+    View Must view in order to complete this module item
+    Page
+    26. Upside and Downside Direct Mapped Cache_1
+    View Must view in order to complete this module item
+    Page
+    27. Direct Mapped Cache Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Cache Review: Direct Mapped Cache Quiz
+    View Must view in order to complete this module item
+    Page
+    27. Direct Mapped Cache Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    28. Direct Mapped Cache Quiz 2
+    View Must view in order to complete this module item
+    Quiz
+    Cache Review: Direct Mapped Cache Quiz 2
+    View Must view in order to complete this module item
+    Page
+    28. Direct Mapped Cache Quiz 2 (Answer)
+    View Must view in order to complete this module item
+    Page
+    29. Set Associative Caches
+    View Must view in order to complete this module item
+    Page
+    30. Offset - Index - Tag for Set Associative
+    View Must view in order to complete this module item
+    Page
+    31. 2 Way Set Associative Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Cache Review: 2 Way Set Associative Quiz
+    View Must view in order to complete this module item
+    Page
+    31. 2 Way Set Associative Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    32. Fully Associative Cache
+    View Must view in order to complete this module item
+    Page
+    33. Direct Mapped and Fully Associative
+    View Must view in order to complete this module item
+    Page
+    34. Cache Replacement
+    View Must view in order to complete this module item
+    Page
+    35. Implementing LRU
+    View Must view in order to complete this module item
+    Page
+    36. LRU Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Cache Review: LRU Quiz
+    View Must view in order to complete this module item
+    Page
+    36. LRU Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    37. Write Policy
+    View Must view in order to complete this module item
+    Page
+    38. Write Back Caches
+    View Must view in order to complete this module item
+    Page
+    39. Write Back Cache Example
+    View Must view in order to complete this module item
+    Page
+    40. Write Back Cache Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Cache Review: Write Back Cache Quiz
+    View Must view in order to complete this module item
+    Page
+    40. Write Back Cache Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    41. Cache Summary Part 1
+    View Must view in order to complete this module item
+    Page
+    42. Cache Summary Part 2
+    View Must view in order to complete this module item
+    Page
+    43. Cache Summary Quiz 1
+    View Must view in order to complete this module item
+    Quiz
+    Cache Review: Cache Summary Quiz 1
+    View Must view in order to complete this module item
+    Page
+    43. Cache Summary Quiz 1 (Answer)
+    View Must view in order to complete this module item
+    Page
+    44. Cache Summary Quiz 2
+    View Must view in order to complete this module item
+    Quiz
+    Cache Review: Cache Summary Quiz 2
+    View Must view in order to complete this module item
+    Page
+    44. Cache Summary Quiz 2 (Answer)
+    View Must view in order to complete this module item
+    Page
+    45. Cache Reivew Outro
+    View Must view in order to complete this module item
+
+Virtual Memory
+Virtual Memory
+
+    Complete All Items
+
+    Page
+    Virtual Memory
+    Mark done Must mark this module item done in order to complete
+    Page
+    1. Virtual Memory Intro
+    View Must view in order to complete this module item
+    Page
+    2. Why Virtual Memory
+    View Must view in order to complete this module item
+    Page
+    3. Virtual Memory Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Virtual Memory: Virtual Memory Quiz
+    View Must view in order to complete this module item
+    Page
+    3. Virtual Memory Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    4. Processor's View of Memory
+    View Must view in order to complete this module item
+    Page
+    5. Program's View of Memory
+    View Must view in order to complete this module item
+    Page
+    6. Mapping Virtual Physical Memory
+    View Must view in order to complete this module item
+    Page
+    7. Page Table Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Virtual Memory: Page Table Quiz
+    View Must view in order to complete this module item
+    Page
+    7. Page Table Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    8. Where Is the Missing Memory
+    View Must view in order to complete this module item
+    Page
+    9. Virtual To Physical Translation
+    View Must view in order to complete this module item
+    Page
+    10. Address Translation Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Virtual Memory: Address Translation Quiz
+    View Must view in order to complete this module item
+    Page
+    10. Address Translation Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    11. Size of Flat Page Table
+    View Must view in order to complete this module item
+    Page
+    12. Flat Page Table Size Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Virtual Memory: Flat Page Table Size Quiz
+    View Must view in order to complete this module item
+    Page
+    12. Flat Page Table Size Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    13. Multi Level Page Tables
+    View Must view in order to complete this module item
+    Page
+    14. Multi Level Page Table Structure
+    View Must view in order to complete this module item
+    Page
+    15. Two Level Page Table Example
+    View Must view in order to complete this module item
+    Page
+    16. Two Level Page Table Size
+    View Must view in order to complete this module item
+    Page
+    17. 4 Level PT Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Virtual Memory: 4 Level PT Quiz
+    View Must view in order to complete this module item
+    Page
+    17. 4 Level PT Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    18. Choosing The Page Size
+    View Must view in order to complete this module item
+    Page
+    19. Memory Access Time With V-P Translation
+    View Must view in order to complete this module item
+    Page
+    20. V P Translation Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Virtual Memory: V P Translation Quiz
+    View Must view in order to complete this module item
+    Page
+    20. V P Translation Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    21. V P Translation Quiz 2
+    View Must view in order to complete this module item
+    Quiz
+    Virtual Memory: V P Translation Quiz 2
+    View Must view in order to complete this module item
+    Page
+    21. V P Translation Quiz 2 (Answer)
+    View Must view in order to complete this module item
+    Page
+    22. Translation Look Aside Buffer (TLB)
+    View Must view in order to complete this module item
+    Page
+    23. What If We Have A TLB Miss
+    View Must view in order to complete this module item
+    Quiz
+    Virtual Memory: What If We Have A TLB Miss
+    View Must view in order to complete this module item
+    Page
+    23. What If We Have A TLB Miss (Answer)
+    View Must view in order to complete this module item
+    Page
+    24. TLB Size Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Virtual Memory: TLB Size Quiz
+    View Must view in order to complete this module item
+    Page
+    24. TLB Size Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    25. TLB Organization
+    View Must view in order to complete this module item
+    Page
+    26. TLB Performance Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Virtual Memory: TLB Performance Quiz
+    View Must view in order to complete this module item
+    Page
+    26. TLB Performance Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    27. Virtual Memory Outro
+    View Must view in order to complete this module item
+
+Advanced Caches
+Advanced Caches
+
+    Complete All Items
+
+    Page
+    Advanced Caches
+    Mark done Must mark this module item done in order to complete
+    Page
+    1. Advanced Caches Intro
+    View Must view in order to complete this module item
+    Page
+    2. Improving Cache Performance
+    View Must view in order to complete this module item
+    Page
+    3. Reduce Hit Time
+    View Must view in order to complete this module item
+    Page
+    4. Pipelined Caches
+    View Must view in order to complete this module item
+    Page
+    5. TLB And Cache Hit
+    View Must view in order to complete this module item
+    Page
+    6. Virtually Accessed Cache
+    View Must view in order to complete this module item
+    Page
+    7. Virtually Indexed Physically Tagged
+    View Must view in order to complete this module item
+    Page
+    8. Aliasing in Virtually Accessed Caches
+    View Must view in order to complete this module item
+    Page
+    9. VIPT Cache Aliasing
+    View Must view in order to complete this module item
+    Page
+    10. VIPT Aliasing Avoidance
+    View Must view in order to complete this module item
+    Quiz
+    Advanced Caches: VIPT Aliasing Avoidance
+    View Must view in order to complete this module item
+    Page
+    10. VIPT Aliasing Avoidance (Answer)
+    View Must view in order to complete this module item
+    Page
+    11. Real VIPT Caches
+    View Must view in order to complete this module item
+    Page
+    12. Associativity and Hit Time
+    View Must view in order to complete this module item
+    Page
+    13. Way Prediction
+    View Must view in order to complete this module item
+    Page
+    14. Way Prediction Performance
+    View Must view in order to complete this module item
+    Page
+    15. Way Prediction Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Advanced Caches: Way Prediction Quiz
+    View Must view in order to complete this module item
+    Page
+    15. Way Prediction Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    16. Replacement Policy and Hit Time
+    View Must view in order to complete this module item
+    Page
+    17. NMRU Replacement
+    View Must view in order to complete this module item
+    Page
+    18. PLRU Replacement
+    View Must view in order to complete this module item
+    Page
+    19. NMRU Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Advanced Caches: NMRU Quiz
+    View Must view in order to complete this module item
+    Page
+    19. NMRU Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    20. Reducing the Miss Rate
+    View Must view in order to complete this module item
+    Page
+    21. Larger Cache Blocks
+    View Must view in order to complete this module item
+    Page
+    22. Miss Rate Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Advanced Caches: Miss Rate Quiz
+    View Must view in order to complete this module item
+    Page
+    22. Miss Rate Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    23. Prefetching
+    View Must view in order to complete this module item
+    Page
+    24. Prefetch Instructions
+    View Must view in order to complete this module item
+    Page
+    25. Prefetch Instructions Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Advanced Caches: Prefetch Instructions Quiz
+    View Must view in order to complete this module item
+    Page
+    25. Prefetch Instructions Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    26. Hardware Prefetching
+    View Must view in order to complete this module item
+    Page
+    27. Loop Interchange
+    View Must view in order to complete this module item
+    Page
+    28. Overlap Misses
+    View Must view in order to complete this module item
+    Page
+    29. Miss Under Miss Support in Caches
+    View Must view in order to complete this module item
+    Page
+    30. Miss Under Miss Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Advanced Caches: Miss Under Miss Quiz
+    View Must view in order to complete this module item
+    Page
+    30. Miss Under Miss Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    31. Cache Hierarchies
+    View Must view in order to complete this module item
+    Page
+    32. AMAT With Cache Hierarchies
+    View Must view in order to complete this module item
+    Page
+    33. L1 Vs L2
+    View Must view in order to complete this module item
+    Quiz
+    Advanced Caches: L1 Vs L2
+    View Must view in order to complete this module item
+    Page
+    33. L1 Vs L2 (Answer)
+    View Must view in order to complete this module item
+    Page
+    34. Multilevel Cache Performance
+    View Must view in order to complete this module item
+    Page
+    35. Hit Rate
+    View Must view in order to complete this module item
+    Page
+    36. Global VS Local Hit Rate
+    View Must view in order to complete this module item
+    Page
+    37. Global and Local Miss Rate Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Advanced Caches: Global and Local Miss Rate Quiz
+    View Must view in order to complete this module item
+    Page
+    37. Global and Local Miss Rate Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    38. Inclusion Property
+    View Must view in order to complete this module item
+    Page
+    39. Inclusion Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Advanced Caches: Inclusion Quiz
+    View Must view in order to complete this module item
+    Page
+    39. Inclusion Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    40. Advanced Caches Outro
+    View Must view in order to complete this module item
+
+Memory
+Memory
+
+    Complete All Items
+
+    Page
+    Memory
+    Mark done Must mark this module item done in order to complete
+    Page
+    1. Memory Intro
+    View Must view in order to complete this module item
+    Page
+    2. How Memory Works
+    View Must view in order to complete this module item
+    Page
+    3. Memory Technology SRAM and DRAM
+    View Must view in order to complete this module item
+    Page
+    4. One Memory Bit SRAM
+    View Must view in order to complete this module item
+    Page
+    5. One Memory Bit DRAM
+    View Must view in order to complete this module item
+    Page
+    6. DRAM Technology Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Memory: DRAM Technology Quiz
+    View Must view in order to complete this module item
+    Page
+    6. DRAM Technology Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    7. Memory Chip Organization Part 1
+    View Must view in order to complete this module item
+    Page
+    8. Memory Chip Organization Part 2
+    View Must view in order to complete this module item
+    Page
+    9. Memory Refresh Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Memory: Memory Refresh Quiz
+    View Must view in order to complete this module item
+    Page
+    9. Memory Refresh Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    10. Memory Chip Organization Part 3
+    View Must view in order to complete this module item
+    Page
+    11. Fast Page Mode
+    View Must view in order to complete this module item
+    Page
+    12. DRAM Access Scheduling Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Memory: DRAM Access Scheduling Quiz
+    View Must view in order to complete this module item
+    Page
+    12. DRAM Access Scheduling Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    13. Connecting DRAM To The Processor
+    View Must view in order to complete this module item
+    Page
+    14. Memory Outro
+    View Must view in order to complete this module item
+
+Storage
+Storage
+
+    Complete All Items
+
+    Page
+    Storage
+    Mark done Must mark this module item done in order to complete
+    Page
+    1. Storage Intro
+    View Must view in order to complete this module item
+    Page
+    2. Storage
+    View Must view in order to complete this module item
+    Page
+    3. Magnetic Disks
+    View Must view in order to complete this module item
+    Page
+    4. Access Time For Magnetic Disks
+    View Must view in order to complete this module item
+    Page
+    5. Disk Access Time Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Storage: Disk Access Time Quiz
+    View Must view in order to complete this module item
+    Page
+    5. Disk Access Time Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    6. Trends For Magnetic Disks
+    View Must view in order to complete this module item
+    Page
+    7. Optical Disks
+    View Must view in order to complete this module item
+    Page
+    8. Magnetic Tape
+    View Must view in order to complete this module item
+    Page
+    9. Disks And Tape Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Storage: Disks And Tape Quiz
+    View Must view in order to complete this module item
+    Page
+    9. Disks And Tape Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    10. Using RAM For Storage
+    View Must view in order to complete this module item
+    Page
+    11. Hybrid Magnetic Flash
+    View Must view in order to complete this module item
+    Page
+    12. Flash vs Disk vs Both Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Storage: Flash vs Disk vs Both Quiz
+    View Must view in order to complete this module item
+    Page
+    12. Flash vs Disk vs Both Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    13. Connecting IO Devices
+    View Must view in order to complete this module item
+    Page
+    14. Storage Outro
+    View Must view in order to complete this module item
+
+Fault Tolerance
+Fault Tolerance
+
+    Complete All Items
+
+    Page
+    Fault Tolerance
+    Mark done Must mark this module item done in order to complete
+    Page
+    1. Fault TOL Intro
+    View Must view in order to complete this module item
+    Page
+    2. Dependability
+    View Must view in order to complete this module item
+    Page
+    3. Faults - Errors - and Failures
+    View Must view in order to complete this module item
+    Page
+    4. Fault - Error - and Failure Example
+    View Must view in order to complete this module item
+    Page
+    5. Laptop Falls Down Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Fault Tolerance: Laptop Falls Down Quiz
+    View Must view in order to complete this module item
+    Page
+    5. Laptop Falls Down Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    6. Reliability - Availability
+    View Must view in order to complete this module item
+    Page
+    7. Reliability and Availability Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Fault Tolerance: Reliability and Availability Quiz
+    View Must view in order to complete this module item
+    Page
+    7. Reliability and Availability Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    8. Kinds of Faults
+    View Must view in order to complete this module item
+    Page
+    9. Fault Classification Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Fault Tolerance: Fault Classification Quiz
+    View Must view in order to complete this module item
+    Page
+    9. Fault Classification Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    10. Improving Reliability and Availability
+    View Must view in order to complete this module item
+    Page
+    11. Fault Tolerance Techniques
+    View Must view in order to complete this module item
+    Page
+    12. N Module Redundancy
+    View Must view in order to complete this module item
+    Page
+    13. N Module quiz
+    View Must view in order to complete this module item
+    Quiz
+    Fault Tolerance: N Module quiz
+    View Must view in order to complete this module item
+    Page
+    13. N Module quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    14. Fault Tolerance for Memory and Storage
+    View Must view in order to complete this module item
+    Page
+    15. RAID
+    View Must view in order to complete this module item
+    Page
+    16. RAID 0
+    View Must view in order to complete this module item
+    Page
+    17. RAID 0 Reliability
+    View Must view in order to complete this module item
+    Page
+    18. RAID 0 Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Fault Tolerance: RAID 0 Quiz
+    View Must view in order to complete this module item
+    Page
+    18. RAID 0 Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    19. RAID 1 Mirroring
+    View Must view in order to complete this module item
+    Page
+    20. Raid 1 Reliability
+    View Must view in order to complete this module item
+    Page
+    21. Raid 1 Reliability if Failed Disks Replaced
+    View Must view in order to complete this module item
+    Page
+    22. RAID 1 Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Fault Tolerance: RAID 1 Quiz
+    View Must view in order to complete this module item
+    Page
+    22. RAID 1 Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    23. RAID 4
+    View Must view in order to complete this module item
+    Page
+    24. RAID 4 Performance and Reliability
+    View Must view in order to complete this module item
+    Page
+    25. RAID 4 Write
+    View Must view in order to complete this module item
+    Page
+    26. RAID 4 Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Fault Tolerance: RAID 4 Quiz
+    View Must view in order to complete this module item
+    Page
+    26. RAID 4 Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    27. Parity Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Fault Tolerance: Parity Quiz
+    View Must view in order to complete this module item
+    Page
+    27. Parity Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    28. RAID 5
+    View Must view in order to complete this module item
+    Page
+    29. RAID 5 Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Fault Tolerance: RAID 5 Quiz
+    View Must view in order to complete this module item
+    Page
+    29. RAID 5 Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    30. RAID 6
+    View Must view in order to complete this module item
+    Page
+    31. RAID 6 Is An Overkill
+    View Must view in order to complete this module item
+    Page
+    32. Fault TOL Outro
+    View Must view in order to complete this module item
+
+Multi-Processing
+Multi-Processing
+
+    Complete One Item
+
+    Page
+    Multi-Processing
+    Mark done Must mark this module item done in order to complete
+    Page
+    1. Multi Processing Intro
+    View Must view in order to complete this module item
+    Page
+    2. Flynn's Taxonomy of Parallel Machines
+    View Must view in order to complete this module item
+    Page
+    3. Why Multiprocessors
+    View Must view in order to complete this module item
+    Page
+    4. Multicore Vs Single Core Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Multi-Processing: Multicore Vs Single Core Quiz
+    View Must view in order to complete this module item
+    Page
+    4. Multicore Vs Single Core Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    5. Multiprocessor Needs Parallel Programs!
+    View Must view in order to complete this module item
+    Page
+    6. Centralized Shared Memory
+    View Must view in order to complete this module item
+    Page
+    7. Multicore Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Multi-Processing: Multicore Quiz
+    View Must view in order to complete this module item
+    Page
+    7. Multicore Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    8. Centralized Main Memory Problems
+    View Must view in order to complete this module item
+    Page
+    9. Distributed Shared Memory
+    View Must view in order to complete this module item
+    Page
+    10. Numa Memory Allocation Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Multi-Processing: Numa Memory Allocation Quiz
+    View Must view in order to complete this module item
+    Page
+    10. Numa Memory Allocation Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    11. A Message Passing Program
+    View Must view in order to complete this module item
+    Page
+    12. A Shared Memory Program
+    View Must view in order to complete this module item
+    Page
+    13. Message Passing Vs Shared Memory
+    View Must view in order to complete this module item
+    Page
+    14. Message Passing Vs Shared Memory Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Multi-Processing: Message Passing Vs Shared Memory Quiz
+    View Must view in order to complete this module item
+    Page
+    14. Message Passing Vs Shared Memory Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    15. Shared Memory Hardware
+    View Must view in order to complete this module item
+    Page
+    16. Multi Threading Performance
+    View Must view in order to complete this module item
+    Page
+    17. SMT Vs Dual Core Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Multi-Processing: SMT Vs Dual Core Quiz
+    View Must view in order to complete this module item
+    Page
+    17. SMT Vs Dual Core Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    18. SMT Hardware Changes
+    View Must view in order to complete this module item
+    Page
+    19. SMT - D$ - TLB
+    View Must view in order to complete this module item
+    Page
+    20. SMT and Cache Performance
+    View Must view in order to complete this module item
+    Page
+    21. SMT and Cache Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Multi-Processing: SMT and Cache Quiz
+    View Must view in order to complete this module item
+    Page
+    21. SMT and Cache Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    22. Multi Processing Outro
+    View Must view in order to complete this module item
+
+Cache Coherence
+Cache Coherence
+
+    Complete All Items
+
+    Page
+    Cache Coherence
+    Mark done Must mark this module item done in order to complete
+    Page
+    1. Coherence Intro
+    View Must view in order to complete this module item
+    Page
+    2. Cache Coherence Problem
+    View Must view in order to complete this module item
+    Page
+    3. Cache Incoherence Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Cache Coherence: Cache Incoherence Quiz
+    View Must view in order to complete this module item
+    Page
+    3. Cache Incoherence Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    4. Coherence Definition
+    View Must view in order to complete this module item
+    Page
+    5. Coherence Definition Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Cache Coherence: Coherence Definition Quiz
+    View Must view in order to complete this module item
+    Page
+    5. Coherence Definition Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    6. How to Get Coherence
+    View Must view in order to complete this module item
+    Page
+    7. Write Update Snooping Coherence
+    View Must view in order to complete this module item
+    Page
+    8. Write Update Coherence Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Cache Coherence: Write Update Coherence Quiz
+    View Must view in order to complete this module item
+    Page
+    8. Write Update Coherence Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    9. Write Update Optimization
+    View Must view in order to complete this module item
+    Page
+    10. Write Update Optimization 2 Bus Writes
+    View Must view in order to complete this module item
+    Page
+    11. Write Update Optimization Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Cache Coherence: Write Update Optimization Quiz
+    View Must view in order to complete this module item
+    Page
+    11. Write Update Optimization Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    12. Write Invalidate Snooping Coherence
+    View Must view in order to complete this module item
+    Page
+    13. Write Update vs Write Invalidate Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Cache Coherence: Write Update vs Write Invalidate Quiz
+    View Must view in order to complete this module item
+    Page
+    13. Write Update vs Write Invalidate Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    14. Write Update vs Write Invalidate Quiz 2
+    View Must view in order to complete this module item
+    Quiz
+    Cache Coherence: Write Update vs Write Invalidate Quiz 2
+    View Must view in order to complete this module item
+    Page
+    14. Write Update vs Write Invalidate Quiz 2 (Answer)
+    View Must view in order to complete this module item
+    Page
+    15. Update VS Invalidate Coherence
+    View Must view in order to complete this module item
+    Page
+    16. MSI Coherence
+    View Must view in order to complete this module item
+    Page
+    17. Cache To Cache Transfers
+    View Must view in order to complete this module item
+    Page
+    18. MSI Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Cache Coherence: MSI Quiz
+    View Must view in order to complete this module item
+    Page
+    18. MSI Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    19. MSI Quiz 2
+    View Must view in order to complete this module item
+    Quiz
+    Cache Coherence: MSI Quiz 2
+    View Must view in order to complete this module item
+    Page
+    19. MSI Quiz 2 (Answer)
+    View Must view in order to complete this module item
+    Page
+    20. Avoiding Memory Writes On Cache to Cache Transfers
+    View Must view in order to complete this module item
+    Page
+    21. MOSI Coherence
+    View Must view in order to complete this module item
+    Page
+    22. M(O)SI Inefficiency
+    View Must view in order to complete this module item
+    Page
+    23. The E State
+    View Must view in order to complete this module item
+    Page
+    24. MOESI Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Cache Coherence: MOESI Quiz
+    View Must view in order to complete this module item
+    Page
+    24. MOESI Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    25. MESI - MOSI - MOESI Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Cache Coherence: MESI -MOSI -MOESI Quiz
+    View Must view in order to complete this module item
+    Page
+    25. MESI - MOSI - MOESI Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    26. Directory Based Coherence
+    View Must view in order to complete this module item
+    Page
+    27. Directory
+    View Must view in order to complete this module item
+    Page
+    28. Directory Entry
+    View Must view in order to complete this module item
+    Page
+    29. Directory Example
+    View Must view in order to complete this module item
+    Page
+    30. Directory MOESI Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Cache Coherence: Directory MOESI Quiz
+    View Must view in order to complete this module item
+    Page
+    30. Directory MOESI Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    31. Cache Misses With Coherence
+    View Must view in order to complete this module item
+    Page
+    32. False Sharing Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Cache Coherence: False Sharing Quiz
+    View Must view in order to complete this module item
+    Page
+    32. False Sharing Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    33. Coherence Outro
+    View Must view in order to complete this module item
+
+Synchronization
+Synchronization
+
+    Complete All Items
+
+    Page
+    Synchronization
+    Mark done Must mark this module item done in order to complete
+    Page
+    1. Synchronization Intro
+    View Must view in order to complete this module item
+    Page
+    2. Synchronization Example
+    View Must view in order to complete this module item
+    Page
+    3. Synchronization Example Lock
+    View Must view in order to complete this module item
+    Page
+    4. Lock Variable Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Synchronization: Lock Variable Quiz
+    View Must view in order to complete this module item
+    Page
+    4. Lock Variable Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    5. Lock Synchronization
+    View Must view in order to complete this module item
+    Page
+    6. Implementing Lock
+    View Must view in order to complete this module item
+    Page
+    7. Atomic Instructions Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Synchronization: Atomic Instructions Quiz
+    View Must view in order to complete this module item
+    Page
+    7. Atomic Instructions Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    8. Atomic Instructions
+    View Must view in order to complete this module item
+    Page
+    9. Test And Set Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Synchronization: Test And Set Quiz
+    View Must view in order to complete this module item
+    Page
+    9. Test And Set Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    10. Atomic Instructions 2
+    View Must view in order to complete this module item
+    Page
+    11. Load Linked Store Conditional
+    View Must view in order to complete this module item
+    Page
+    12. How is LL SC Atomic
+    View Must view in order to complete this module item
+    Page
+    13. LL SC Lock Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Synchronization: LL SC Lock Quiz
+    View Must view in order to complete this module item
+    Page
+    13. LL SC Lock Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    14. Locks and Performance
+    View Must view in order to complete this module item
+    Page
+    15. Test and Atomic OP Lock
+    View Must view in order to complete this module item
+    Page
+    16. Test and Atomic OP Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Synchronization: Test and Atomic OP Quiz
+    View Must view in order to complete this module item
+    Page
+    16. Test and Atomic OP Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    17. Unlock Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Synchronization: Unlock Quiz
+    View Must view in order to complete this module item
+    Page
+    17. Unlock Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    18. Barrier Synchronization
+    View Must view in order to complete this module item
+    Page
+    19. Simple Barrier Implementation
+    View Must view in order to complete this module item
+    Page
+    20. Simple Barrier Implementation Doesn't Work
+    View Must view in order to complete this module item
+    Page
+    21. Simple Barrier Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Synchronization: Simple Barrier Quiz
+    View Must view in order to complete this module item
+    Page
+    21. Simple Barrier Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    22. Reusable Barrier
+    View Must view in order to complete this module item
+    Page
+    23. Synchronization Outro
+    View Must view in order to complete this module item
+
+Memory Consistency
+Memory Consistency
+
+    Complete All Items
+
+    Page
+    Memory Consistency
+    Mark done Must mark this module item done in order to complete
+    Page
+    1. Consistency Intro
+    View Must view in order to complete this module item
+    Page
+    2. Memory Consistency
+    View Must view in order to complete this module item
+    Page
+    3. Consistency Matters
+    View Must view in order to complete this module item
+    Page
+    4. Consistency Matters Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Memory Consistency: Consistency Matters Quiz
+    View Must view in order to complete this module item
+    Page
+    4. Consistency Matters Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    5. Why We Need Consistency
+    View Must view in order to complete this module item
+    Page
+    6. Sequential Consistency
+    View Must view in order to complete this module item
+    Page
+    7. Simple Implementation of SC Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Memory Consistency: Simple Implementation of SC Quiz
+    View Must view in order to complete this module item
+    Page
+    7. Simple Implementation of SC Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    8. Better Implementation of SC
+    View Must view in order to complete this module item
+    Page
+    9. Relaxed Consistency
+    View Must view in order to complete this module item
+    Page
+    10. Relaxed Consistency
+    View Must view in order to complete this module item
+    Page
+    11. MSYNC Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Memory Consistency: MSYNC Quiz
+    View Must view in order to complete this module item
+    Page
+    11. MSYNC Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    12. Data Races and Consistency
+    View Must view in order to complete this module item
+    Page
+    13. Consistency Models
+    View Must view in order to complete this module item
+    Page
+    14. Consistency Outro
+    View Must view in order to complete this module item
+
+Many Cores
+Many Cores
+
+    Complete All Items
+
+    Page
+    Many Cores
+    Mark done Must mark this module item done in order to complete
+    Page
+    1. Many Cores Intro
+    View Must view in order to complete this module item
+    Page
+    2. Many Core Challenges
+    View Must view in order to complete this module item
+    Page
+    3. Network On Chip
+    View Must view in order to complete this module item
+    Page
+    4. Mesh vs Bus Throughput Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Many Cores: Mesh vs Bus Throughput Quiz
+    View Must view in order to complete this module item
+    Page
+    4. Mesh vs Bus Throughput Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    5. Many Core Challenges 2
+    View Must view in order to complete this module item
+    Page
+    6. Distributed LLC
+    View Must view in order to complete this module item
+    Page
+    7. Distributed LLC Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Many Cores: Distributed LLC Quiz
+    View Must view in order to complete this module item
+    Page
+    7. Distributed LLC Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    8. Many Core Challenges 2
+    View Must view in order to complete this module item
+    Page
+    9. On Chip Directory
+    View Must view in order to complete this module item
+    Page
+    10. On Chip Directory Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Many Cores: On Chip Directory Quiz
+    View Must view in order to complete this module item
+    Page
+    10. On Chip Directory Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    11. On Chip Directory 2
+    View Must view in order to complete this module item
+    Page
+    12. Many Core Challenges 3
+    View Must view in order to complete this module item
+    Page
+    13. Multi Core Power and Performance
+    View Must view in order to complete this module item
+    Page
+    14. Performance vs Number of Cores Quiz
+    View Must view in order to complete this module item
+    Quiz
+    Many Cores: Performance vs Number of Cores Quiz
+    View Must view in order to complete this module item
+    Page
+    14. Performance vs Number of Cores Quiz (Answer)
+    View Must view in order to complete this module item
+    Page
+    15. No Parallelism to Boost Frequency
+    View Must view in order to complete this module item
+    Page
+    16. Many Core Challenges 4
+    View Must view in order to complete this module item
+    Page
+    17. SMT - Cores - Chips
+    View Must view in order to complete this module item
+    Page
+    18. Many Core Challenges 5
+    View Must view in order to complete this module item
+    Page
+    19. Many Cores Outro
+    View Must view in order to complete this module item
+

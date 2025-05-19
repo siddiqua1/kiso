@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "Cornell",
+    "supercharged-links-gen"
+  ],
+  "cssTheme": "Bryans Gruvbox",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 16
+}
